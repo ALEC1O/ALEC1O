@@ -22,8 +22,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://instagram.com/AlecioFuranze" target="_blank"><img align="center"
+  <a href="https://vk.com/AlecioFuranze" target="_blank"><img align="center"
+      src="https://cdn.iconscout.com/icon/free/png-256/vk-11-721983.png" height="30" width="40" /></a>
+    <a href="https://twitter.com/ALEC1O" target="_blank"><img align="center"
+      src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" height="30" width="40" /></a>
+    <a href="https://instagram.com/AlecioFuranze" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+</p>
+</p>
+
 </p>
 
 <br>
