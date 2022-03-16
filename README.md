@@ -1,6 +1,21 @@
 <h1 align="center">Hi 👋, I'm ALECIO F.E.F</h1>
 <h3 align="center">Programming is my life🌟.</h3>
 
+## 2022 Learning Plan
+### Goal is to learn all the technology around ~25% enough for my needs
+
+
+#### ⏰ Golang
+>    - 0%
+#### 🛠 Unreal Engine
+>    - 0%
+#### 🚗 HTML
+>    - 15%
+#### 🏎 CSS
+>    - 5%
+#### 🛺 JS
+ >   - 5%
+
 <br>
 
 <p align="right"> <h3>Profile Views : <br><br> <img src="https://komarev.com/ghpvc/?username=ALEC1O&label=Profile%20views&color=0e75b6&style=flat"
