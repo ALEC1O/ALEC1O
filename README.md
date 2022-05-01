@@ -4,7 +4,7 @@
 ## 2022 Learning Plan
 ### Goal is to learn all the technology around ~25% enough for my needs
 
-#### 🏆 C# (lang)
+#### 🏆 C# (lang) ✔️
 >    - 25%
 #### 🥇 Python (lang)
 >    - 10%
@@ -23,7 +23,7 @@
 #### 👨🏻‍🎓 Flask (framework)
 >    - 5%
 
-#### 🏆 Unity (framework)
+#### 🏆 Unity (framework) ✔️
 >    - 25%
 
 
