@@ -4,18 +4,26 @@
 ## 2022 Learning Plan
 ### Goal is to learn all the technology around ~25% enough for my needs
 
+##  Programming Language
+
 #### 🏆 C# (lang) ✔️
 >    - 25%
 #### 🥇 Python (lang)
 >    - 10%
-#### 👨🏻‍🦽 Unreal Engine
->    - 0%
+#### 🎈 JS (lang)
+>   - 8%
+
+
+## Other Language
+
 #### 🎈 HTML (lang)
 >    - 18%
 #### 👨🏻‍🎓 CSS (lang)
 >    - 10%
-#### 🎈 JS (lang)
- >   - 8%
+
+
+
+## Web Framework
 
 #### 👨🏻‍🎓 Django (framework)
 >    - 5%
@@ -23,6 +31,11 @@
 #### 👨🏻‍🎓 Flask (framework)
 >    - 5%
 
+
+## Game Engine / Framework
+
+#### 👨🏻‍🦽 Unreal Engine (framework)
+>    - 0%
 #### 🏆 Unity (framework) ✔️
 >    - 25%
 
