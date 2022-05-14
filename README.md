@@ -18,6 +18,7 @@
 
 #### 🎈 HTML (lang)
 >    - 18%
+>    
 #### 👨🏻‍🎓 CSS (lang)
 >    - 10%
 
@@ -25,12 +26,10 @@
 
 ## Web Framework
 
-#### 👨🏻‍🎓 Django (framework)
->    - 5%
-
+#### 👨🏻‍🎓 ASP.NET (framework)
+>    - 0%
 #### 👨🏻‍🎓 Flask (framework)
->    - 5%
-
+>    - 10%
 
 ## Game Engine / Framework
 
