@@ -6,8 +6,8 @@
         <img height="200px !important" width="45% !important" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alec1o&layout=compact&theme=vue-dark&hide_border=true"">
     </div>
     <br><br>
-<div>
-    <div align=" center">
+<div align="center">
+    <div align="center">
         <table>
             <tr>
                 <th>Game Framework</th>
