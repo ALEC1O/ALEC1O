@@ -10,6 +10,8 @@
 </div>
 
 <div align=" center">
+        <h2 align="left">My study plan</h2>
+        <br>
         <div align="center">
             <table>
                 <tr>
@@ -80,7 +82,8 @@
         </div>
     </div>
 </div>
-
+<br>
+<br>
 <div>
     <h2 align="left">Connect with me:</h2>
     <br>
@@ -90,7 +93,8 @@
         <a href="https://instagram.com/ALEC1O" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40px" width="40px" /></a>
     </p>
 </div>
-
+<br>
+<br>
 <div>
     <h2 align="left">Already tried</h2>
     <br>
