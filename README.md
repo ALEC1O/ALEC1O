@@ -7,9 +7,57 @@
     </div>
     <br><br>
 <div>
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
+    <div align="center">
+        <table>
+            <tr>
+                <th>Game Framework</th>
+                <th>Web Framework</th>
+                <th>Language</th>
+            </tr>
+            <tr>
+                <td align="center">
+                  <table>
+                      <tr>
+                          <th></th>
+                          <th></th>
+                          <th></th>
+                      </tr>
+                      <tr>
+                           <td></td>
+                           <td></td>
+                           <td></td>
+                       </tr>
+                   </table>
+               </td>
+                <td align="center">
+                       <table>
+                      <tr>
+                          <th></th>
+                          <th></th>
+                          <th></th>
+                      </tr>
+                      <tr>
+                           <td></td>
+                           <td></td>
+                           <td></td>
+                       </tr>
+                   </table>
+                       </td>
+                <td align="center">
+                       <table>
+                      <tr>
+                          <th></th>
+                          <th></th>
+                          <th></th>
+                      </tr>
+                      <tr>
+                           <td></td>
+                           <td></td>
+                           <td></td>
+                       </tr>
+                   </table>
+                       </td>
+            </tr>
+        </table>
+    </div>
 </div>
