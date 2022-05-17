@@ -43,7 +43,7 @@
                     <td align="center">
                         <table>
                             <tr>
-                                <th>Asp</th>
+                                <th>ASP.NET</th>
                                 <th> ~ 0% </th>
                                 <th>❌</th>
                             </tr>
