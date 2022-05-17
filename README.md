@@ -10,7 +10,8 @@
 </div>
 
 <div align=" center">
-        <h2 align="left">My study plan</h2>
+        <h2 align="left">My study plan </h2>
+        <h6>Last update: <time datetime="2022-05-17">2022/05/17</time></h6>
         <br>
         <div align="center">
             <table>
