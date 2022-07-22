@@ -109,9 +109,9 @@
         <img title="Pg Postgresql" alt="postgresql icon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-plain.svg" height="40px" width="40px">
     </p>
     <p align="left"> Web Framework
-        <img title="Node.JS" alt="node.js icon" align="center" src="https://user-images.githubusercontent.com/42860908/106164530-120e5680-61b0-11eb-954c-969c7031ffd4.png" height="40px" width="40px">
-        <img title="Flask" alt="flask icon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original.svg" height="40px" width="40px">
+        <img title="ASP.NET" alt="node.js icon" align="center" src="https://user-images.githubusercontent.com/42860908/106164530-120e5680-61b0-11eb-954c-969c7031ffd4.png" height="40px" width="40px">
         <img title="Django" alt="django icon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg" height="40px" width="40px">
+        <img title="Flask" alt="flask icon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original.svg" height="40px" width="40px">
         <img title="Node.JS" alt="node.js icon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" height="40px" width="40px">
     </p>
     <p align="left"> Versioning
