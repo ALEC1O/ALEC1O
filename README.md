@@ -113,8 +113,6 @@
         <img title="Flask" alt="flask icon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original.svg" height="40px" width="40px">
         <img title="Django" alt="django icon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg" height="40px" width="40px">
         <img title="Node.JS" alt="node.js icon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" height="40px" width="40px">
-    
-    </p>    
     </p>
     <p align="left"> Versioning
         <img title="Git" alt="git icon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain.svg" height="40px" width="40px">
