@@ -54,7 +54,7 @@
                             </tr>
                             <tr>
                                 <td>Flask</td>
-                                <td> ~ 10% </td>
+                                <td> ~ 14% </td>
                                 <td>👨🏻‍🎓</td>
                             </tr>
                         </table>
